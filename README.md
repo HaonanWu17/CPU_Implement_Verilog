@@ -1,2 +1,2 @@
 # CPU_Implement-Verilog
-Implement  Single Cycle RISC-V Datapath
+Implemented  Single Cycle RISC-V Datapath

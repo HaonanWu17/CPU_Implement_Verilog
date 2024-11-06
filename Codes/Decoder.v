@@ -5,7 +5,7 @@
 // 
 // Create Date: 11/04/2024 05:51:45 PM
 // Design Name: 
-// Module Name: Main_control_testbench
+// Module Name: Decoder.v
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
